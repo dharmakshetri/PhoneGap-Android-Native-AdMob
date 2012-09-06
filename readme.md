@@ -34,7 +34,7 @@ Step 3) Configure your AdMob ad unit ID
 Inside your MainActivity create a string for your ad id with the following code:
 
     private static final String AdMob_Ad_Unit = "Unit_ID_Here";
-*Be sure to include your own ad unit id, otherwise no ads will be displayed*
+**Be sure to include your own ad unit id, otherwise no ads will be displayed**
 
 Step 4) Create your Ad View
 -
