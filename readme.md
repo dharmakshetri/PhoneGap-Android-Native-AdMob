@@ -64,6 +64,6 @@ After your MainActivity, create define the ad activity:
 
 Step 6) Disable Testing Mode
 -
-Be sure to disable testing mode before deploying to Google Play by deleting the following line from your MainActivity.java
+Be sure to disable testing mode before deploying to Google Play by changing the value to false, commenting out or deleting the following line from your MainActivity.java
 
     request.setTesting(true);
